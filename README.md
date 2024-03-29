@@ -24,7 +24,7 @@
 	+ Arduino ($\mathbb{\color[RGB]{252,193,83}{ATmega328p}}$): проекты d, e.
 	+ $\mathbb{\color[RGB]{252,193,83}{ESP8266}}$ (Tensilica’s L106)[](https://github.com/2romanio005/Brizer): проект d.
 	+ Контроллер EV3 mindstorms.
-- $\mathbb{\color[RGB]{252,193,83}{Git \ + \ GitHab}}$:
+- $\mathbb{\color[RGB]{252,193,83}{Git \ + \ GitHub}}$:
 	+ Использовался для $\mathbb{\color[RGB]{252,193,83}{командной}}$ разработки.
 	+ Мои репозитории: <https://github.com/2romanio005?tab=repositories>
 - Другие ЯП и фреймворки: Python, Dart + Flutter, Java + Processing, JavaScript + HTML, Bush.
