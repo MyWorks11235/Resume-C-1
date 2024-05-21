@@ -1,0 +1,10 @@
+Самостоятельная разработка систем умного дома:
+- система приточной вентиляции;  https://github.com/2romanio005/Brizer
+- система устранения протечек.    https://github.com/2romanio005/FloodEliminator
+Разработка полноценных приложений на Win API с большим количеством ООП и большой архитектурой:
+- куча файлов https://github.com/2romanio005/File_comparison.
+- https://github.com/2romanio005/Bombers
+- https://github.com/2romanio005/Life_simulation
+Командная работа над используемым приложением:
+- используется в моей школе для обучения https://github.com/2romanio005/cramming_poems
+
