@@ -14,11 +14,11 @@
 		1. <https://github.com/2romanio005/FloodEliminator>
 	+ Библиотека $\mathbb{\color[RGB]{252,193,83}{STL}}$: во всех проектах.
 	+ Библиотека $\mathbb{\color[RGB]{252,193,83}{Win \ API}}$: проекты a, b, c.
-	+ Библиотека $\mathbb{\color[RGB]{252,193,83}{Qt}: <https://github.com/2romanio005/FileModification>
+	+ Библиотека $\mathbb{\color[RGB]{252,193,83}{Qt}}$: <https://github.com/2romanio005/FileModification>
 - $\mathbb{\color[RGB]{252,193,83}{Алгоритмы}}$ и $\mathbb{\color[RGB]{252,193,83}{структуры}}$ данных: 
 	+ 1 год курса АиСД в ИТМО.
 	+ $\mathbb{\color[RGB]{252,193,83}{Более \ 150}}$ решённых задач на олимпиадное программирование.
-- Модульное и $\mathbb{\color[RGB]{252,193,83}{интеграционное \ тестирование}:
+- Модульное и $\mathbb{\color[RGB]{252,193,83}{интеграционное \ тестирование}}$:
 	+ На Flutter: https://github.com/MyEducation11235/UniversalDice
 - $\mathbb{\color[RGB]{252,193,83}{ООП}}$:
 	+ Умело выстраиваю $\mathbb{\color[RGB]{252,193,83}{архитектуру}}$ проекта  
