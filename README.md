@@ -30,7 +30,7 @@
 - $\mathbb{\color[RGB]{252,193,83}{Git \ + \ GitHub}}$:
 	+ Использовался для $\mathbb{\color[RGB]{252,193,83}{командной}}$ разработки.
 	+ Мои репозитории: <https://github.com/2romanio005?tab=repositories>
-- Другие ЯП и фреймворки: Python, Dart + Flutter, Java + Processing, JavaScript + HTML, Bush.
+- Другие ЯП и фреймворки: Python, Dart + Flutter, Java + Processing, JavaScript + HTML, Bash.
 ## $\mathbb{\color[RGB]{255,127,0}{SOFT \ skills}}$
 - Терпеливый и очень $\mathbb{\color[RGB]{252,193,83}{неконфликтный}}$ человек.
 - Умею самостоятельно находить решения и нужную информацию.
